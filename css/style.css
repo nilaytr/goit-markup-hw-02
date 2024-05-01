@@ -66,12 +66,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    cursor: pointer;
 }
 
-.buton .link:hover,
-.buton .link:focus {
-    color: #404BBF
+.buton:hover,
+.buton:focus {
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
 

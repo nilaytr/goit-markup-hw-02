@@ -29,3 +29,7 @@ body {
 .header-ul .link:focus {
     color: #404bbf;
 }
+
+.studio {
+    color: #2e2f42;
+}

@@ -41,9 +41,9 @@ body {
     color: #434455;
 }
 
-.adres .link:hover,
-.adres .link:focus {
-    color: #404bbf;
+.adres:hover,
+.adres:focus {
+    color: #404bbf
 }
 
 

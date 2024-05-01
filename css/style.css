@@ -17,3 +17,15 @@ body {
 .span {
     color: #2e2f42;
 }
+
+.header-ul {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.header-ul .link:hover,
+.header-ul .link:focus {
+    color: #404bbf;
+}

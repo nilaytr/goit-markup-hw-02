@@ -69,8 +69,8 @@ body {
     cursor: pointer;
 }
 
-.buton:hover,
-.buton:focus {
+.buton .link:hover,
+.buton .link:focus {
     color: #404BBF
 }
 
